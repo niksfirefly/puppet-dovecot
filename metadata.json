@@ -1,0 +1,18 @@
+{
+  "name": "DavidSchmitt-dovecot",
+  "author": "",
+  "description": "",
+  "license": "",
+  "project_page": "",
+  "source": "",
+  "summary": "",
+  "version": "1.0.0",
+  "checksums": {
+    "Modulefile": "a0728d472c29822e96ad29dc576f7e03",
+    "files/dovecot.ldap.conf": "40e4991d0f00ef0e08e815ff1e59999c",
+    "files/dovecot.pam.conf": "0d2b2147d9ff6bf448d221c8a8952fba",
+    "manifests/init.pp": "f96d6172d4fb4c8a406bcb4e43d0631a",
+    "templates/dovecot-ldap.conf": "6e69791645fccbc4fcc378dc1544a837"
+  },
+  "dependencies": []
+}
